@@ -1,6 +1,6 @@
 <?php 
-$a = 4;
-$b = 19;
+$a = 8;
+$b = 20;
 //menjumlahkan variabel a dengan variabel b
 echo $a + $b;
 
